@@ -39,5 +39,5 @@ Historically works of art and architecture have been subjected to fragmentation:
 | Alexandre Tokovinine  | University of Alabama  | [About Link](https://anthropology.ua.edu/people/alexandre-tokovinine/)  
 | Emanuele Usai|University of Alabama|[About Link](https://physics.ua.edu/people/emanuele-usai/)
 | Sergei Gleyzer | University of Alabama|[About Link](https://physics.ua.edu/people/sergei-gleyzer/)
-| Student Assistant - Lizzette Soto| University of Alabama|[About Link](https://anthropology.ua.edu/graduate-student/lizzette-soto/)
+| Lizzette Soto| University of Alabama|[About Link](https://anthropology.ua.edu/graduate-student/lizzette-soto/)
 
